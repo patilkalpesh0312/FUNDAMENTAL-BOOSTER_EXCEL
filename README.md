@@ -4,9 +4,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=950&height=80&lines=%F0%9F%91%8B+Hello+%26+Welcome!;Welcome+to+FUNDAMENTAL+BOOSTER+%F0%9F%93%8A;Excel+Data+Analysis+Project+%F0%9F%9A%80;Let's+Explore+the+Workbook!+%E2%9C%A8&repeat=true" alt="Animated Greeting"/>
 </a>
 
-</div>
-
 # 📊 FUNDAMENTAL BOOSTER
+
 ### Excel Data Analysis & Formula Practice Project
 
 **Turning raw Excel data into useful insights — one formula at a time.**
@@ -14,8 +13,6 @@
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
 [![Project](https://img.shields.io/badge/Project-Fundamental%20Booster-7C3AED?style=for-the-badge)](#)
 [![Excel Functions](https://img.shields.io/badge/Excel%20Functions-IF%20%7C%20VLOOKUP%20%7C%20XLOOKUP-00AEEF?style=for-the-badge)](#)
-
-</div>
 
 ---
 
@@ -25,16 +22,18 @@
 
 The workbook contains three main datasets:
 
-- 🎓 **Student Data** — marks, averages, grades, enrollment dates and top-performing students
-- 💰 **Sales Data** — products, regions, salespeople, amounts and dates
-- 👨‍💼 **Employee Data** — departments, salaries and joining dates
+🎓 **Student Data** — marks, averages, grades, enrollment dates and top-performing students
+
+💰 **Sales Data** — products, regions, salespeople, amounts and dates
+
+👨‍💼 **Employee Data** — departments, salaries and joining dates
 
 ---
 
 ## 🗂️ Workbook Structure
 
 | Sheet | Data | Analysis / Formula Work |
-|---|---|---|
+|:---:|:---:|:---:|
 | 🎓 **STUDENT DATA** | Student ID, Name, Math, Science, English, Enrollment Date | Total Marks, Average, Grade, Maths & Science, COUNTIFS, FILTER |
 | 💰 **SALES DATA** | Sales ID, Product, Region, Salesperson, Amount, Date | SUMIFS, INDEX + MATCH, VLOOKUP |
 | 👨‍💼 **EMPLOYEE DATA** | Employee ID, Name, Department, Salary, Joining Date | XLOOKUP Salary, XLOOKUP Joining Date |
@@ -46,11 +45,13 @@ The workbook contains three main datasets:
 The Student Data sheet contains student marks, enrollment dates and calculated performance indicators.
 
 ### 📸 Sheet Preview
-<img src="Images/STUDENTS_DATA.jpg" alt="Student Data Excel screenshot" width="100%"/>
+
+<img src="Images/STUDENTS_DATA.jpg" alt="Student Data Excel screenshot" width="90%"/>
+
 ### 🔎 Analysis Included
 
 | Feature | Purpose |
-|---|---|
+|:---:|:---:|
 | `IF` | Grade classification |
 | `AND` | Maths & Science condition |
 | `COUNTIFS` | Conditional student count |
@@ -66,7 +67,7 @@ The Sales Data sheet contains product, region, salesperson, amount and date info
 
 ### 📸 Sheet Preview
 
-<img src="Images/SALES_DATA.jpg" alt="Sales Data Excel screenshot" width="100%"/>
+<img src="Images/SALES_DATA.jpg" alt="Sales Data Excel screenshot" width="90%"/>
 
 ### 📊 Sales Analysis
 
@@ -94,7 +95,7 @@ The Employee Data sheet contains employee IDs, names, departments, salaries and 
 
 ### 📸 Sheet Preview
 
-<img src="Images/EMPLOYEE-DATA.jpg" alt="Employee Data Excel screenshot" width="100%"/>
+<img src="Images/EMPLOYEE-DATA.jpg" alt="Employee Data Excel screenshot" width="90%"/>
 
 ### ⚡ XLOOKUP Examples
 
@@ -117,7 +118,7 @@ These formulas use the Employee ID to dynamically return the matching employee i
 # 🧠 Excel Functions Used
 
 | Function | Used For |
-|---|---|
+|:---:|:---:|
 | `IF` | Grade classification |
 | `AND` | Multiple-condition checking |
 | `COUNTIFS` | Conditional counting |
@@ -136,6 +137,7 @@ These formulas use the Employee ID to dynamically return the matching employee i
 # 📈 Project Highlights
 
 ### 🎓 Student Analysis
+
 - Total marks and average calculation
 - Grade classification
 - Maths & Science condition
@@ -143,12 +145,14 @@ These formulas use the Employee ID to dynamically return the matching employee i
 - Top-performing student extraction
 
 ### 💰 Sales Analysis
+
 - Product and region analysis
 - Conditional sales totals
 - Salesperson + month lookup
 - Product price search
 
 ### 👨‍💼 Employee Analysis
+
 - Dynamic salary lookup
 - Dynamic joining-date lookup
 - Structured employee records
@@ -168,24 +172,23 @@ These formulas use the Employee ID to dynamically return the matching employee i
 
 ## 📸 Complete Workbook Screenshots
 
-### Student Data
-<img src="Images/STUDENTS_DATA.jpg" alt="Student Data Excel screenshot" width="100%"/>
+### 🎓 Student Data
 
-### Sales Data
-<img src="Images/SALES_DATA.jpg" alt="Sales Data Excel screenshot" width="100%"/>
+<img src="Images/STUDENTS_DATA.jpg" alt="Student Data Excel screenshot" width="90%"/>
 
-### Employee Data
-<img src="Images/EMPLOYEE-DATA.jpg" alt="Employee Data Excel screenshot" width="100%"/>
+### 💰 Sales Data
+
+<img src="Images/SALES_DATA.jpg" alt="Sales Data Excel screenshot" width="90%"/>
+
+### 👨‍💼 Employee Data
+
+<img src="Images/EMPLOYEE-DATA.jpg" alt="Employee Data Excel screenshot" width="90%"/>
 
 ---
-
-<div align="center">
 
 <a href="https://github.com/patilkalpesh0312/FUNDAMENTAL-BOOSTER_EXCEL">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=7CFF6B&center=true&vCenter=true&width=950&height=80&lines=%F0%9F%91%8B+Thanks+for+visiting!;Thank+You+for+Exploring+Fundamental+Booster+%F0%9F%92%9A;Keep+Learning+%F0%9F%93%9A;Keep+Practicing+%F0%9F%92%BB;Keep+Growing+%F0%9F%9A%80&repeat=true" alt="Animated Closing Greeting"/>
 </a>
-
-</div>
 
 ### ⭐ FUNDAMENTAL BOOSTER
 
