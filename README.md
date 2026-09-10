@@ -1,8 +1,10 @@
 <div align="center">
 
 <a href="https://github.com/patilkalpesh0312/FUNDAMENTAL-BOOSTER_EXCEL">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=👋+Hello+%26+Welcome!;Welcome+to+FUNDAMENTAL+BOOSTER+📊;Excel+Data+Analysis+Project+🚀;Let's+Explore+the+Workbook!+✨" alt="Animated greeting"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=950&height=80&lines=%F0%9F%91%8B+Hello+%26+Welcome!;Welcome+to+FUNDAMENTAL+BOOSTER+%F0%9F%93%8A;Excel+Data+Analysis+Project+%F0%9F%9A%80;Let's+Explore+the+Workbook!+%E2%9C%A8&repeat=true" alt="Animated Greeting"/>
 </a>
+
+</div>
 
 # 📊 FUNDAMENTAL BOOSTER
 ### Excel Data Analysis & Formula Practice Project
@@ -182,8 +184,10 @@ These formulas use the Employee ID to dynamically return the matching employee i
 <div align="center">
 
 <a href="https://github.com/patilkalpesh0312/FUNDAMENTAL-BOOSTER_EXCEL">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=900&color=7CFF6B&center=true&vCenter=true&width=900&lines=👋+Thanks+for+visiting!;Thank+You+for+Exploring+Fundamental+Booster+💚;Keep+Learning+📚;Keep+Practicing+💻;Keep+Growing+🚀" alt="Animated closing greeting"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=7CFF6B&center=true&vCenter=true&width=950&height=80&lines=%F0%9F%91%8B+Thanks+for+visiting!;Thank+You+for+Exploring+Fundamental+Booster+%F0%9F%92%9A;Keep+Learning+%F0%9F%93%9A;Keep+Practicing+%F0%9F%92%BB;Keep+Growing+%F0%9F%9A%80&repeat=true" alt="Animated Closing Greeting"/>
 </a>
+
+</div>
 
 ### ⭐ FUNDAMENTAL BOOSTER
 
