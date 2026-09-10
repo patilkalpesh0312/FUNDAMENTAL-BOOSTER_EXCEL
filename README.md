@@ -46,9 +46,7 @@ The workbook contains three main datasets:
 The Student Data sheet contains student marks, enrollment dates and calculated performance indicators.
 
 ### 📸 Sheet Preview
-
-<img src="assets/student-data.png" alt="Student Data Excel screenshot" width="100%"/>
-
+<img src="Images/STUDENTS_DATA.jpg" alt="Student Data Excel screenshot" width="100%"/>
 ### 🔎 Analysis Included
 
 | Feature | Purpose |
@@ -68,7 +66,7 @@ The Sales Data sheet contains product, region, salesperson, amount and date info
 
 ### 📸 Sheet Preview
 
-<img src="assets/sales-data.png" alt="Sales Data Excel screenshot" width="100%"/>
+<img src="Images/SALES_DATA.jpg" alt="Sales Data Excel screenshot" width="100%"/>
 
 ### 📊 Sales Analysis
 
@@ -96,7 +94,7 @@ The Employee Data sheet contains employee IDs, names, departments, salaries and 
 
 ### 📸 Sheet Preview
 
-<img src="assets/employee-data.png" alt="Employee Data Excel screenshot" width="100%"/>
+<img src="Images/EMPLOYEE-DATA.jpg" alt="Employee Data Excel screenshot" width="100%"/>
 
 ### ⚡ XLOOKUP Examples
 
@@ -171,13 +169,13 @@ These formulas use the Employee ID to dynamically return the matching employee i
 ## 📸 Complete Workbook Screenshots
 
 ### Student Data
-<img src="assets/student-data.png" alt="Student Data" width="100%"/>
+<img src="Images/STUDENTS_DATA.jpg" alt="Student Data Excel screenshot" width="100%"/>
 
 ### Sales Data
-<img src="assets/sales-data.png" alt="Sales Data" width="100%"/>
+<img src="Images/SALES_DATA.jpg" alt="Sales Data Excel screenshot" width="100%"/>
 
 ### Employee Data
-<img src="assets/employee-data.png" alt="Employee Data" width="100%"/>
+<img src="Images/EMPLOYEE-DATA.jpg" alt="Employee Data Excel screenshot" width="100%"/>
 
 ---
 
