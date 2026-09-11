@@ -95,7 +95,11 @@ The Employee Data sheet contains employee IDs, names, departments, salaries and 
 
 ### 📸 Sheet Preview
 
-<img src="Images/EMPLOYEE-DATA.jpg" alt="Employee Data Excel screenshot" width="90%"/>
+<div align="center">
+
+<img src="./Images/EMPLOYEE_DATA.jpg" alt="Employee Data Excel screenshot" width="90%"/>
+
+</div>
 
 ### ⚡ XLOOKUP Examples
 
@@ -182,7 +186,11 @@ These formulas use the Employee ID to dynamically return the matching employee i
 
 ### 👨‍💼 Employee Data
 
-<img src="Images/EMPLOYEE-DATA.jpg" alt="Employee Data Excel screenshot" width="90%"/>
+<div align="center">
+
+<img src="./Images/EMPLOYEE_DATA.jpg" alt="Employee Data Excel screenshot" width="90%"/>
+
+</div>
 
 ---
 
