@@ -97,10 +97,9 @@ The Employee Data sheet contains employee IDs, names, departments, salaries and 
 
 <div align="center">
 
-<img src="./Images/EMPLOYEE_DATA.jpg" alt="Employee Data Excel screenshot" width="90%"/>
+<img src="./Images/EMPLOYEE_DATA1.jpg" alt="Employee Data Excel screenshot" width="90%"/>
 
 </div>
-
 ### ⚡ XLOOKUP Examples
 
 **Salary Lookup**
@@ -188,7 +187,7 @@ These formulas use the Employee ID to dynamically return the matching employee i
 
 <div align="center">
 
-<img src="./Images/EMPLOYEE_DATA.jpg" alt="Employee Data Excel screenshot" width="90%"/>
+<img src="./Images/EMPLOYEE_DATA1.jpg" alt="Employee Data Excel screenshot" width="90%"/>
 
 </div>
 
